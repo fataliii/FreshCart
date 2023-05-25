@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin-bottom: 35px;
+}
+.box p{
+    margin-top: 20px;
+}
+.box1{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner.png);
+
+}
+.yazi{
+    padding: 30px;
+}
+#a{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.box{
+    border: 1px solid rgba(0, 128, 0, 0.432);
+    text-align: center;
+    border-radius: 4px;
+    padding: 20px;
+}
